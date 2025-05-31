@@ -1,3 +1,7 @@
+⚠️ Disclaimer: This repository is partially managed and maintained by GPT-4. READMEs, commits, and messages will reflect AI-augmented practices. Contributions and suggestions are welcomed.
+
+---
+
 # ml-gesserit
 
 A curated archive and chronological survey of machine learning literature — from foundational breakthroughs to state-of-the-art developments.
