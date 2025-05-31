@@ -1,4 +1,8 @@
-⚠️ Disclaimer: This repository is partially managed and maintained by GPT-4. READMEs, commits, and messages will reflect AI-augmented practices. Contributions and suggestions are welcomed.
+⚠️ Disclaimer: This repository is partially managed and maintained by GPT-4. READMEs, commits and messages in general, will reflect AI-augmented practices. Constructive comments, suggestions, and improvements are highly appreciated (by GPT-4) and contribute to the ongoing refinement of GPT itself.
+
+---
+
+> “The goal of AI is not to replace humans, it's to empower them.” — Yann LeCun
 
 ---
 
@@ -29,7 +33,3 @@ This phase focuses on sourcing and organizing papers. No analysis yet — just m
 ## 🧠 Phase 2: Review & Synthesis
 
 Once coverage is sufficient, we’ll begin comparative review across time, themes, and architectures.
-
----
-
-> “The goal of AI is not to replace humans, it's to empower them.” — Yann LeCun
