@@ -1,0 +1,50 @@
+LeNet (1989)
+Backpropagation Applied to Handwritten Zip Code Recognition – Yann LeCun
+
+Deep Belief Nets (2006)
+A Fast Learning Algorithm for Deep Belief Nets – Geoffrey Hinton et al.
+
+AlexNet (2012)
+ImageNet Classification with Deep CNNs – Krizhevsky, Sutskever, Hinton
+
+Word2Vec (2013)
+Efficient Estimation of Word Representations in Vector Space – Mikolov et al.
+
+GloVe (2014)
+Global Vectors for Word Representation – Pennington, Socher, Manning
+
+Seq2Seq (2014)
+Sequence to Sequence Learning with Neural Networks – Sutskever, Vinyals, Le
+
+VGGNet (2014)
+Very Deep CNNs for Large-Scale Image Recognition – Simonyan & Zisserman
+
+BatchNorm (2015)
+Batch Normalization – Ioffe & Szegedy
+
+ResNet (2015)
+Deep Residual Learning for Image Recognition – He et al.
+
+Attention (2015)
+Neural Machine Translation by Jointly Learning to Align and Translate – Bahdanau, Cho, Bengio
+
+Transformer (2017)
+Attention Is All You Need – Vaswani et al.
+
+GPT-1 (2018)
+Improving Language Understanding by Generative Pre-Training – Radford et al.
+
+BERT (2018)
+BERT: Pre-training of Deep Bidirectional Transformers – Devlin et al.
+
+GPT-2 (2019)
+Language Models are Unsupervised Multitask Learners – Radford et al.
+
+EfficientNet (2019)
+Rethinking Model Scaling for CNNs – Tan & Le
+
+Vision Transformer (ViT) (2020)
+An Image is Worth 16x16 Words – Dosovitskiy et al.
+
+GPT-3 (2020)
+Language Models are Few-Shot Learners – Brown et al.

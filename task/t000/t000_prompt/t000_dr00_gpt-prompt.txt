@@ -1,0 +1,10 @@
+Retrieve a comprehensive and categorized historical analysis of machine learning, beginning with a succinct overview of early foundational milestones (e.g., the Turing Test, perceptron, and early neural networks), followed by a detailed breakdown of major developments from the pre-deep learning era through to present day. Emphasize the progression of algorithms, model architectures, and research breakthroughs using an application-centric lens.
+
+Structure the main content into distinct application domains—such as face recognition, speech recognition, natural language processing, computer vision, and reinforcement learning. Prioritize face recognition as the central domain of focus. For this domain, map the timeline of innovations from handcrafted features and eigenfaces to deep CNNs, transformer-based models, and contemporary embedding-based verification techniques.
+
+Incorporate insights from the two seed texts provided in the video description:
+(1) an article titled “AI History: Deep Learning Takeover from LeNet to GPT-4” by Reza Akhoondzadeh, and
+(2) a second article by the same author that explains generalization techniques in face recognition systems.
+Open and analyze both seeds to enrich your understanding and reflect their content throughout your structured output.
+
+Ensure that all findings are presented with clarity, domain-based segmentation, and technical accuracy—especially highlighting how each development influenced the evolution and real-world deployment of facial analysis systems.
