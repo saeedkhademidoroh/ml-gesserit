@@ -1,0 +1,32 @@
+> Gemini Prompt:
+
+You are continuing a recursive deep research pipeline designed to map and expand a high-impact article list across AI domains. Your current seed includes the updated `t000_dr04_article-list`, a curated and deduplicated list built by tracing citations and trends across foundational and recent AI research.
+
+Your task in this iteration:
+
+1. Identify the most **influential**, **emerging**, or **referenced** works related to or cited by the papers in `t000_dr04_article-list`.
+2. Expand the scope in three directions:
+
+   * Follow citation trails (both backward and forward)
+   * Cross-reference with SOTA benchmarks like Papers With Code, HELM, and MMLU
+   * Add domain-adjacent works that introduce novel architectures, data paradigms, agent-based reasoning, evaluation frameworks, or societal implications
+
+Each paper you include should have:
+
+* Title
+* Author(s)
+* Year
+* Brief contribution summary
+* Citation source (mention which seed paper or topic it relates to)
+* Link to the paper if available
+
+Organize the output by domain and technique (e.g., CV + Transformers, NLP + Alignment, RL + Offline Training).
+
+Avoid redundancy with `t000_dr04_article-list`. This new output will be `t000_dr05_article-list`.
+
+> Gemini Seed:
+
+Use the following files for seed reference:
+
+1. `t000_dr04_article-list.txt` — The most recent curated and deduplicated list of milestone AI papers, covering foundational, modern, and emerging works.
+2. `t000_dr04_article-source.pdf` — Fulltext source detailing methodology, structure, and rationale behind the current corpus. Use this to understand the filtering logic and thematic clustering behind `t000_dr04_article-list`.
