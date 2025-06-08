@@ -1,2 +1,0 @@
-https://medium.com/@rezaakhoondzade/ai-history-deep-learning-takeover-from-lenet-to-gpt-4-834c129804cb
-https://medium.com/@rezaakhoondzade/how-to-prevent-overfitting-and-enhance-generalization-in-deep-learning-b26e459cfd19
